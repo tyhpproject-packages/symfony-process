@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-process
 
-Tyhp type definitions for `symfony/process` `7.4.19`.
+Tyhp type definitions for `symfony/process` `8.1.7`.
 
 ```bash
-composer require --dev tyhpdef/symfony-process:7.4.19
+composer require --dev tyhpdef/symfony-process:8.1.7
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-process-impl` (type files).
